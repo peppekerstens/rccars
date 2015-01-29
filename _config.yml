@@ -1,0 +1,20 @@
+# Site settings
+title: RC Racing Corner
+owner_name: Pierre Phaneuf
+email: pphaneuf@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Tips and opinions on racing radio controlled cars. It's both more serious and
+  sillier than it seems, at the same time.
+baseurl: "/rccars" # the subpath of your site, e.g. /blog/
+url: "http://pphaneuf.github.io" # the base hostname & protocol for your site
+twitter_username: pphaneuf
+github_username:  pphaneuf
+
+# Build settings
+markdown: kramdown
+permalink: "/:year/:month/:day/:title/"
+
+collections:
+  articles:
+    output: true
+    permalink: /articles/:path/
