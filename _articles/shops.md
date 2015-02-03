@@ -51,6 +51,20 @@ I only used them for my hauler bag, as they had the best price on it, it was
 all as expected. Their site is nice, but as they don't carry the Xray kits that
 I wanted, I didn't use them much.
 
+- [MomentumRC](http://momentumrc.co.uk/)
+
+This shop has a specialization around the Yokomo R12 car (which is not that
+common), and other 12th scale consumables (shells, tyres, additive, etc), as
+well as some GT12 parts. Mark Stiles (a successful Yokomo team driver) runs
+this shop on the side, so he usually is at the nationals, and if you're running
+his kit, support is top notch (I've seen him rebuild a customer's pivot at a
+club meeting!). It's not a big shop, so if you're looking for touring car
+parts, it's not the place to go, but he has a highly personalised service, if
+you need something 12th scale (especially if you have a Yokomo!), ask him about
+it.
+
+Mark Stiles' shop, so should be good for 1/12 scale.
+
 - [Steve Webb Models](http://stevewebb.co.uk/) (also known as [Servo Shop](http://servoshop.co.uk/))
 
 This shop seems to specialise in radios and servos, which is where I got mine.
@@ -101,7 +115,6 @@ that to avoid surprises!
 
 - [JE Models](http://jemodels.com/)
 - [Model Car Racer](http://modelcarracer.com/)
-- [MomentumRC](http://momentumrc.co.uk/): Mark Stiles' shop, so should be good for 1/12 scale.
 - [Moss Models](http://www.mossrcmodels.co.uk/)
 - [RC Dis.Co](http://www.rcdisco.com/): UK importers for Xray, they should be able to get all the parts?
 - [RC ModelShop Direct](http://rcmodelshopdirect.com/)
