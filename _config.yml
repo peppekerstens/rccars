@@ -9,6 +9,7 @@ baseurl: "/rccars" # the subpath of your site, e.g. /blog/
 url: "http://pphaneuf.github.io" # the base hostname & protocol for your site
 twitter_username: pphaneuf
 github_username:  pphaneuf
+excerpt_separator: "\n\n\n"
 
 # Build settings
 markdown: kramdown
