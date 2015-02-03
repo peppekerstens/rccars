@@ -55,13 +55,13 @@ I wanted, I didn't use them much.
 
 This shop has a specialization around the Yokomo R12 car (which is not that
 common), and other 12th scale consumables (shells, tyres, additive, etc), as
-well as some GT12 parts. Mark Stiles (a successful Yokomo team driver) runs
-this shop on the side, so he usually is at the nationals, and if you're running
-his kit, support is top notch (I've seen him rebuild a customer's pivot at a
-club meeting!). It's not a big shop, so if you're looking for touring car
-parts, it's not the place to go, but he has a highly personalised service, if
-you need something 12th scale (especially if you have a Yokomo!), ask him about
-it.
+well as some GT12 parts (soon to carry Schumacher and Zen GT12 spares, I'm
+told). Mark Stiles (a successful Yokomo team driver) runs this shop on the
+side, so he usually is at the nationals, and if you're running his kit, support
+is top notch (I've seen him rebuild a customer's pivot at a club meeting!).
+It's not a big shop, so if you're looking for touring car parts, it's not the
+place to go, but he has a highly personalised service, if you need something
+12th scale (especially if you have a Yokomo!), ask him about it.
 
 Mark Stiles' shop, so should be good for 1/12 scale.
 
