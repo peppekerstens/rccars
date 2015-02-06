@@ -118,6 +118,7 @@ that to avoid surprises!
 - [Moss Models](http://www.mossrcmodels.co.uk/)
 - [RC Dis.Co](http://www.rcdisco.com/): UK importers for Xray, they should be able to get all the parts?
 - [RC ModelShop Direct](http://rcmodelshopdirect.com/)
+- [RC Racing UK](http://www.rcracinguk.com/)
 - [SLD Models](http://www.sldmodels.co.uk/)
 - [SMD Direct](http://www.smddirect.co.uk/): UK importers for a few brands, including Sanwa.
 - [Yeovil Model Car Racing](http://www.ymcracing.co.uk/)
