@@ -103,6 +103,7 @@ Shops I Did *Not* Use (Yet?)
 
 This is for my own reference, as I might want to use them.
 
+- [Apex Models](http://www.apexmodels.com/)
 - [CPD Racing](http://shop.cpdracing.co.uk/)
 - [HobbyKing.com](http://www.hobbyking.co.uk/)
 
