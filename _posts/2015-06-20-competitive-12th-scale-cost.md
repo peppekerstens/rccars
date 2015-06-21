@@ -106,3 +106,6 @@ that case...
 
 Think of what kind of racer you are and what you'd like to be doing with your
 racing, and you can find the right class for you.
+
+If you're looking for the most speed (and fun!) for your money, you might be
+interested in [this follow-up post](../../21/gt10-cost/).
