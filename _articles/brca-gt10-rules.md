@@ -1,10 +1,10 @@
 ---
 layout: page
-title: BRCA GT10 Rules
+title: BRCA GT10 Rules (unofficial version)
 summary: Unofficial copy with better links (and linkability).
 ---
 
-Note: this is an **UNOFFICIAL** copy of the [official rules](http://www.brca.org/sites/www.brca.org/files/library_files/con_manager/GT10%20Rules%20and%20shell-tyre%20list%20v4-6.pdf) (downloaded on 2015-09-05), with some reformatting and links.
+Note: this is an **UNOFFICIAL** copy of the [official rules](http://www.brca.org/sites/www.brca.org/files/library_files/con_manager/GT10%20Rules%20and%20shell-tyre%20list%20v4-6.pdf) (downloaded on 2015-09-05), with some reformatting and links. I also integrated rule changes from the June 2015 EGM (making GT2 the only class), and corrected a mistake (the missing Protoform Gianna shell).
 
 # V4.6 of the BRCA rules for the GT10 class.
 
@@ -24,7 +24,7 @@ Note: this is an **UNOFFICIAL** copy of the [official rules](http://www.brca.org
 
 > Maximum dimensions for the rolling chassis, less body.
 
-1. Minimum weight (ready to run with body, including lap counting equipment) 1S = 930 grammes, 2S = 1150g. The Committee may vary the 2S weight limit with 14 days notice (Purpose – to maintain equivalence between 1S and 2S)
+1. Minimum weight (ready to run with body, including lap counting equipment) 930 grammes.
 
 > Min. weight
 
@@ -56,19 +56,13 @@ Note: this is an **UNOFFICIAL** copy of the [official rules](http://www.brca.org
 
 ## Power
 
-1. Battery - GT1 and GT2 classes: 1S LiPo or 1 half of a 2S LiPo saddle pack from the respective BRCA Electric Board Homologation lists.
+1. Battery - 1S LiPo or 1 half of a 2S LiPo saddle pack from the respective BRCA Electric Board Homologation lists.
 
 > All classes run LiPo/LiFe cells
 
-1. Battery - GT3 class: 2S LiPo from the respective BRCA Electric Board homologation list.
+1. Motor – 10.5 or higher motors from the BRCA EB Brushless Spec Motors (10.5T and higher) homologation lists.
 
-> Only GT3 class may run 2S LiPo/LiFe
-
-1. Motor – GT1: 10.5 motors from the BRCA EB Brushless Spec Motors (10.5T) homologation lists.
-1. Motor – GT2: 10.5 motors from the BRCA EB Brushless Spec Motors (10.5T) homologation lists.
-1. Motor – GT3: 17.5 motors from the BRCA EB Brushless Spec Motors (17.5) homologation lists 
-
-> Motor limits for the GT2 and GT3 classes
+> Motor limits, a 13.5T (or higher) motor from the appropriate list are legal as well. Boost/turbo is allowed on the ESC (but you can run blinky if you want).
 
 ## Tires/Wheels
 
@@ -94,14 +88,6 @@ Note: this is an **UNOFFICIAL** copy of the [official rules](http://www.brca.org
 1. GT10 races will be 6 minutes in length, plus time to complete the last lap. Race and meeting formats will be as per existing BRCA 12th Section Track Rules.
 
 > Races for all classes are six minutes
-
-## Classes
-
-- GT1 – for 10.5 Spec motors powered by 1S LiPo/LiFe with speed controller operating in ‘blinky’ non-timing mode as per the 12th Electric Circuit approved list.
-- GT2 – for 10.5 Spec motors powered by 1S LiPo/LiFe.
-- GT3 – for 17.5 Spec motors powered by 2S LiPo/LiFe.
-
-> Classes that are allowed at BRCA meetings
 
 # BRCA Recommended Bodyshell list - GT10 Class
 
@@ -135,6 +121,7 @@ Note: this is an **UNOFFICIAL** copy of the [official rules](http://www.brca.org
 - Protoform Corvette C6-R p/n PL1481
 - [Protoform Chevrolet Corvette C6-R](http://racepf.com/legacy-items/chevy-corvette-c6-r/) p/n PL1499
 - [Profoform Sophia](http://racepf.com/on-road-1-10-1-12/sophia-gt-clear-body/) p/n PL1502
+- [Protoform Gianna](http://racepf.com/on-road-1-10-1-12/gianna-gt-light-weight-clear-body/) p/n PL1534
 - [Black Art](http://www.blackart-racing.eu/index.php/products) GT86 p/n BA007
 - [Mon-Tech M10](http://www.mon-techracing.net/m10.html)
 - [Team Muso LM-P Type1](http://www.team-muso.com/lp.html)
