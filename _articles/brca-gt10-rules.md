@@ -4,7 +4,7 @@ title: BRCA GT10 Rules
 summary: Unofficial copy with better links (and linkability).
 ---
 
-Note: this is an **UNOFFICIAL** copy of the [official rules](http://www.brca.org/sites/www.brca.org/files/library_files/con_manager/GT10%20Rules%20and%20shell-tyre%20list%20v4-6.pdf) (downloaded on 2015-09-05), with some reformatting.
+Note: this is an **UNOFFICIAL** copy of the [official rules](http://www.brca.org/sites/www.brca.org/files/library_files/con_manager/GT10%20Rules%20and%20shell-tyre%20list%20v4-6.pdf) (downloaded on 2015-09-05), with some reformatting and links.
 
 # V4.6 of the BRCA rules for the GT10 class.
 
@@ -105,47 +105,47 @@ Note: this is an **UNOFFICIAL** copy of the [official rules](http://www.brca.org
 
 # BRCA Recommended Bodyshell list - GT10 Class
 
-- HPI Porsche 911 GT3 p/n 7418
-- HPI Toyota Supra p/n 7424
-- HPI Lotus Elise p/n 7433
-- HPI Porsche 911 Turbo p/n 7435
-- HPI Saleen S7R p/n 7469
-- HPI Dodge Viper GTS-R p/n 7473
-- HPI Lotus Elise ‘00 7476
-- HPI Lamborghini Murcielago p/n 7477
-- HPI Nissan Silvia p/n 7479
-- HPI Honda NSX p/n 7483
-- HPI Nissan 350Z Nismo GT p/n 7485
-- HPI Toyota Supra GT p/n 7486
-- HPI Mazda RX8 p/n 7488
-- HPI Lamborghini Gallardo p/n 7489
-- HPI Ford GT p/n 7495
-- HPI 2003 Dodge Viper GTS-R painted Red p/n 7727
-- HPI Chevrolet Corvette C6 p/n 17503
-- HPI Ford Mustang GT-R p/n 17504
-- HPI Nissan 350Z Greddy Twin Turbo p/n 17518
-- HPI Porsche 911 Turbo (977) p/n 17527
-- HPI Nissan Silvia S15 p/n 17530
-- HPI Toyota Supra Aero p/n 17539
-- HPI Porsche 911 GT3 RS p/n 17541
-- HPI Ford GT painted body (white) p/n 102505
-- HPI Nissan 350Z Hankook p/n 103886
+- [HPI Porsche 911 GT3](http://www.hpiracing.co.uk/piw.php?partNo=7418) p/n 7418
+- [HPI Toyota Supra](http://www.hpiracing.co.uk/piw.php?partNo=7424) p/n 7424
+- [HPI Lotus Elise](http://www.hpiracing.co.uk/piw.php?partNo=7433) p/n 7433
+- [HPI Porsche 911 Turbo](http://www.hpiracing.co.uk/piw.php?partNo=7435) p/n 7435
+- [HPI Saleen S7R](http://www.hpiracing.co.uk/piw.php?partNo=7469) p/n 7469
+- [HPI Dodge Viper GTS-R](http://www.hpiracing.co.uk/piw.php?partNo=7473) p/n 7473
+- [HPI Lotus Elise ‘00](http://www.hpiracing.co.uk/piw.php?partNo=7476) 7476
+- [HPI Lamborghini Murcielago](http://www.hpiracing.co.uk/piw.php?partNo=7477) p/n 7477
+- [HPI Nissan Silvia](http://www.hpiracing.co.uk/piw.php?partNo=7479) p/n 7479
+- [HPI Honda NSX](http://www.hpiracing.co.uk/piw.php?partNo=7483) p/n 7483
+- [HPI Nissan 350Z Nismo GT](http://www.hpiracing.co.uk/piw.php?partNo=7485) p/n 7485
+- [HPI Toyota Supra GT](http://www.hpiracing.co.uk/piw.php?partNo=7486) p/n 7486
+- [HPI Mazda RX8](http://www.hpiracing.co.uk/piw.php?partNo=7488) p/n 7488
+- [HPI Lamborghini Gallardo](http://www.hpiracing.co.uk/piw.php?partNo=7489) p/n 7489
+- [HPI Ford GT](http://www.hpiracing.co.uk/piw.php?partNo=7495) p/n 7495
+- [HPI 2003 Dodge Viper GTS-R painted Red](http://www.hpiracing.co.uk/piw.php?partNo=7727) p/n 7727
+- [HPI Chevrolet Corvette C6](http://www.hpiracing.co.uk/piw.php?partNo=17503) p/n 17503
+- [HPI Ford Mustang GT-R](http://www.hpiracing.co.uk/piw.php?partNo=17504) p/n 17504
+- [HPI Nissan 350Z Greddy Twin Turbo](http://www.hpiracing.co.uk/piw.php?partNo=17518) p/n 17518
+- [HPI Porsche 911 Turbo (977)](http://www.hpiracing.co.uk/piw.php?partNo=17527) p/n 17527
+- [HPI Nissan Silvia S15](http://www.hpiracing.co.uk/piw.php?partNo=17530) p/n 17530
+- [HPI Toyota Supra Aero](http://www.hpiracing.co.uk/piw.php?partNo=17539) p/n 17539
+- [HPI Porsche 911 GT3 RS](http://www.hpiracing.co.uk/piw.php?partNo=17541) p/n 17541
+- [HPI Ford GT painted body (white)](http://www.hpiracing.co.uk/piw.php?partNo=102505) p/n 102505
+- [HPI Nissan 350Z Hankook](http://www.hpiracing.co.uk/piw.php?partNo=103886) p/n 103886
 - Kyosho PureTen DBR9 (no part number available)
 - Kyosho PureTen Ferrari 430 (no part number available)
 - Protoform Corvette C6-R p/n PL1481
-- Protoform Chevrolet Corvette C6-R p/n PL1499
-- Profoform Sophia p/n PL1502
-- Black Art GT86 p/n BA007
-- Mon-Tech M10
-- Team Muso LM-P Type1
-- Rivall LMP1 Le Mans Prototype version 2014
+- [Protoform Chevrolet Corvette C6-R](http://racepf.com/legacy-items/chevy-corvette-c6-r/) p/n PL1499
+- [Profoform Sophia](http://racepf.com/on-road-1-10-1-12/sophia-gt-clear-body/) p/n PL1502
+- [Black Art](http://www.blackart-racing.eu/index.php/products) GT86 p/n BA007
+- [Mon-Tech M10](http://www.mon-techracing.net/m10.html)
+- [Team Muso LM-P Type1](http://www.team-muso.com/lp.html)
+- [Rivall](http://www.rivall.nl/) LMP1 Le Mans Prototype version 2014
 
 # BRCA Control tyre list
 
-- CRC - 2302 rear, 2300 front – blue/purple ring embedded in foam
+- CRC - [2302 rear](https://www.teamcrc.com/crc/modules.php?name=Shopping_Cart&file=product&prodID=7719032), [2300 front](https://www.teamcrc.com/crc/modules.php?name=Shopping_Cart&file=product&prodID=7719031) – blue/purple ring embedded in foam
 - BSR – part numbers not stated – blue/purple ring embedded in foam. Note, CRC and BSR are the same product.
-- Jaco – 2100 front, 2110 rears – All black wheel with blue/purple ring embedded in foam
-- Contact – JW38FA front, JW38RA rear – All white wheel with blue/purple ring embedded in foam
-- RC4Less – R38WGT-F 1/10th Front, R37WGT-R 1/10th Rear with blue/purple ring embedded in foam
+- Jaco – [2100 front](http://www.cmldistribution.co.uk/product/JAC2100/jaco-world-gt-pro-10-spec-lilac-front-tyres-on-carbon-rims-2), [2110 rears](http://www.cmldistribution.co.uk/product/JAC2110/jaco-world-gt-pro-10-spec-lilac-rear-tyres-on-carbon-rims) – All black wheel with blue/purple ring embedded in foam
+- Contact – [JW38FA front](http://www.racing-cars.com/pp/Manufacturer/Contact_RC/JW38FA.html), [JW38RA rear](http://www.racing-cars.com/pp/Manufacturer/Contact_RC/JW38RA.html) – All white wheel with blue/purple ring embedded in foam
+- RC4Less – [R38WGT-F 1/10th Front](http://www.rc4less.com/product_info.php?products_id=456), [R37WGT-R 1/10th Rear](http://www.rc4less.com/product_info.php?products_id=457) with blue/purple ring embedded in foam
 
 Embedded ring can look a different colour when additive is on, hence blue/purple description.
