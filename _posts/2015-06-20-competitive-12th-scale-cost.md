@@ -6,13 +6,12 @@ title: "Costs of Competitive 12th Scale Racing"
 Everybody (in the UK, anyways!) knows that GT12 is the cheapest class to run,
 right? Or is it? I've been taking a look around, comparing different kits...
 
+Edited (2015-09-06) to add the Mardave Assassin Pro.
+
 
 I'll be leaving out electrics, as for all of the kits I'm looking at, they all
 take the same, or close to (motors of the same brand/model usually all cost the
-same, even if they have different number of turns). I'll also be skipping the
-Mardave Assassin, as I don't know as well what the popular "must have" upgrades
-for it are (if there are *none*, the Assassin Pro model would be the one to
-get, on the basis of cost, right there!).
+same, even if they have different number of turns).
 
 Schumacher SupaStox GT
 ======================
@@ -30,6 +29,28 @@ I've been a bit gentle, as some might go for the Zen diff
 cher-superstox-complete-rear-axlediff-bolt-p-1164)) instead of the Schumacher
 one, to allow fitting JFT tyres, which not only adds another £20, but also
 needs (at least) another set of rear, since the kit provided ones won't fit.
+
+Mardave Assassin Pro
+====================
+
+| Assassin Pro (w/LiPo Brass Weight) | [£164.95](http://mardave.co.uk/catalog/product/view/id/4962/) |
+| 2mm Motor Spacer Plate | [£9.95](http://www.actionmodelcentre.com/proddetail.asp?prod=MAR-V8NM2) |
+| Green Front Springs | [£2.65](http://mardave.co.uk/hop-ups/assassin/example-product-5483.html) |
+| Medium Rear Springs | [£1.65](http://mardave.co.uk/hop-ups/assassin/example-product-5461.html) |
+| 1.5deg Camber Strap | [£5.95](http://mardave.co.uk/hop-ups/assassin/example-product-5534.html) |
+| Total | £185.15 |
+
+The Assassin really benefits from Mardave's frequent and quite generous deals.
+For example, when I looked, it came with a free LiPo brass weight (normally
+[£14.99](http://mardave.co.uk/hop-ups/assassin/example-product-5489.html),
+which would have brought the total price to £200.14). I was a bit surprised
+that using a 2mm motor spacer was recommended even with the Pro model,
+considering it comes with an offset pod? I didn't include any in the price, but
+small extra balance weights are commonly needed.
+
+Different tyres to the kit ones have also been recommended to me, but I didn't
+include that for fairness, as I feel it's still likely that you might need
+different tyres with the other kits.
 
 Zen-Racing RSGT12
 =================
