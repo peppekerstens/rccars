@@ -114,6 +114,7 @@ separately (when you get it?)? Their site seems to indicate which warehouse
 each part is available in, but if you order there, you should pay attention to
 that to avoid surprises!
 
+- [Inside Line Models](http://www.insidelinemodels.com/)
 - [JE Models](http://jemodels.com/)
 - [Model Car Racer](http://modelcarracer.com/)
 - [Moss Models](http://www.mossrcmodels.co.uk/)
@@ -122,4 +123,5 @@ that to avoid surprises!
 - [RC Racing UK](http://www.rcracinguk.com/)
 - [SLD Models](http://www.sldmodels.co.uk/)
 - [SMD Direct](http://www.smddirect.co.uk/): UK importers for a few brands, including Sanwa.
+- [Switfts Raceway](http://www.swiftsraceway.co.uk/)
 - [Yeovil Model Car Racing](http://www.ymcracing.co.uk/)
