@@ -3,17 +3,17 @@
 set terminal svg size 400,300 enhanced fname 'arial'  fsize 10 butt solid
 set output 'out.svg'
 
-motor=5
-boost=45
-startrpm=5000
-finishrpm=25000
-
 # Key means label...
-unset key
+set key inside top right
 set xlabel 'RPM'
-set ylabel 'Timing'
+set ylabel 'Torque'
+set format y ""
 set grid xtics mxtics ytics mytics
 set xrange [0:30000]
-set yrange [-1:motor+boost+10]
+set yrange [0:]
 
-plot motor+(0<=x && x<startrpm ? 0 : startrpm<=x && x<finishrpm ? boost*((x-startrpm)/(finishrpm-startrpm)) : boost), 40
+torque(x, stall, freerun) = stall + x * (-1.0 * stall) / freerun
+
+plot torque(x, 1.0, 20000) title "low timing", \
+     torque(x, 0.9, 25000) title "medium timing", \
+     torque(x, 0.7, 30000) title "high timing"
