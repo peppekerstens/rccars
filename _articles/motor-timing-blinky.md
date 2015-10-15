@@ -124,13 +124,13 @@ adjusted to best benefit from the peak power.
 One problem in blinky is heat management. With a fixed higher timing, the motor
 spends more time running at less efficient RPMs, which translates to more heat
 being generated. And not only can extremely high heat actually melt solder
-joints inside the motor, or otherwise damage components, but much lower
-temperatures will cause the rotor magnets to lose their field strength. So
-overheating your motor will make it weaker. Ideally, it should not exceed 80°C,
+joints inside the motor, or otherwise damage components, but it takes even less
+to cause the rotor magnets to lose their field strength. That's right,
+overheating your motor will make it weaker! Ideally, it should not exceed 80°C,
 100°C might lose some of the magnet strength, and 120°C will turn it into a
 paperweight.
 
-So when tuning timing, pay close attention to motor temperatures!
+So, when tuning timing, pay close attention to motor temperatures!
 
 ## Practical Notes
 
