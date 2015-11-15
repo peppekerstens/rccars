@@ -37,7 +37,7 @@ are likely to be much more of a limiting factor than the car!
 
 Some companies also specifically make entry level versions of their more
 advanced models. Examples: Schumacher Mi1v2, Associated TC4 Club Racer, and
-Yomoko BD7 RS. The Yokomo is an especially interesting one, because it is
+Yokomo BD7 RS. The Yokomo is an especially interesting one, because it is
 exactly the same design as their world championship winner car, but with
 injection molded composite parts instead of alloy, for cost (meaning you can
 upgrade components to the current model), unlike the others which are older
