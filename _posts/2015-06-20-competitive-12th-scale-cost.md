@@ -28,7 +28,9 @@ I've been a bit gentle, as some might go for the Zen diff
 ([£49.99](http://www.zen-racing.co.uk/catalog/product_info.php/zen-racing-schuma
 cher-superstox-complete-rear-axlediff-bolt-p-1164)) instead of the Schumacher
 one, to allow fitting JFT tyres, which not only adds another £20, but also
-needs (at least) another set of rear, since the kit provided ones won't fit.
+needs (at least) another set of rear, since the kit provided ones won't fit, as
+well as £10-20 of other parts (spur gear, bearings, spacers, etc), getting it
+well past £200!
 
 Mardave Assassin Pro
 ====================
