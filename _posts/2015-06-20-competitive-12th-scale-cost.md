@@ -6,8 +6,8 @@ title: "Costs of Competitive 12th Scale Racing"
 Everybody (in the UK, anyways!) knows that GT12 is the cheapest class to run,
 right? Or is it? I've been taking a look around, comparing different kits...
 
-Edited (2015-09-06) to add the Mardave Assassin Pro.
-
+Edited (2015-09-06) to add the Mardave Assassin Pro. Edited (2015-12-03) to add
+the ORE TwelveGT and CRC Xti-WC.
 
 I'll be leaving out electrics, as for all of the kits I'm looking at, they all
 take the same, or close to (motors of the same brand/model usually all cost the
@@ -53,6 +53,38 @@ small extra balance weights are commonly needed.
 Different tyres to the kit ones have also been recommended to me, but I didn't
 include that for fairness, as I feel it's still likely that you might need
 different tyres with the other kits.
+
+ORE TwelveGT
+============
+
+| TwelveGT Fully Upgraded Kit | [£139.00](http://www.oreracing.co.uk/apps/webstore/products/show/6286058) |
+| Total | £139.00 |
+
+If you want to run Contacts wheels/tyres, the ORE TwelveGT is a pretty
+interesting combination, being *truly* fully upgraded, and sporting an unusual
+design that has a fairly low centre of mass. In practice, a bit of lead weight
+ballast is going to be needed, but not enough to warrant an under-LiPo brass
+weight, I'm told, so all told, this is the cheapest one by far, it would seem!
+
+If you'd prefer to run JFT wheels/tyres, ORE sells a kit without axles and
+wheels, but it's a bit of a "death by a thousand cuts" to put this together.
+
+| TwelveGT Fully Upgraded Kit (less axle and wheels) | [£124.00](http://www.oreracing.co.uk/apps/webstore/products/show/6286046) |
+| Zen GT12 Rear Diff Kit | [£39.99](http://www.zen-racing.co.uk/catalog/product_info.php/gt12-rear-diff-p-1083) |
+| Rear Axle Bearings | [£5.99](http://www.zen-racing.co.uk/catalog/product_info.php/112-rear-axle-bearings-14x38-flanged-5pcs-p-677) |
+| Zen Left Clamping Hub | [£11.99](http://www.zen-racing.co.uk/catalog/product_info.php/112-left-clamping-hub-positive-wheel-lock-p-620) |
+| Zen Left Hub Spider | [£6.99](http://www.zen-racing.co.uk/catalog/product_info.php/112-left-hub-spider-positive-lock-p-621) |
+| Rear Axle Spacer | £2.00 |
+| Hub Screw Set | [£1.99](http://www.zen-racing.co.uk/catalog/product_info.php/112-positive-lock-diff-hub-screw-set-p-624) |
+| Spur Gear | [£4.49](http://www.zen-racing.co.uk/catalog/product_info.php/66t-48dp-spur-gear-p-644) |
+| Front Wheel Bearings | [£4.99](http://www.zen-racing.co.uk/catalog/product_info.php/112-front-axle-bearings-18x516-flanged-4pcs-p-678) |
+| Front Wheel Spacers | [£1.50](http://www.zen-racing.co.uk/catalog/product_info.php/gt12-front-wheel-spacer-p-1066) |
+| Rear JFT Tyres | [£5.99](http://www.zen-racing.co.uk/catalog/product_info.php/gt12-jft-foam-shore-lilac-mounted-rear-tyres-1pr-p-1095) |
+| Front JFT Tyres | [£6.99](http://www.zen-racing.co.uk/catalog/product_info.php/gt12-jft-foam-shore-violet-mounted-front-tyres-1pr-p-1096) |
+| Total | £216.91 |
+
+This brings it from one of the cheapest, to one of the most expensive! If you
+really want to run JFT wheels/tyres, you might want to look at the...
 
 Zen-Racing RSGT12
 =================
@@ -111,6 +143,19 @@ other hand competitive LMP12 racers tend to true their tyres quite small!
 Personally, I'd true tyres on the large side, use them for club racing, and
 when they wear down, set them aside for bigger events (after a skim on the
 truer).
+
+CRC Xti-WC
+==========
+
+| CRC Xti-WC | [£159.99](http://www.zen-racing.co.uk/catalog/product_info.php/xti-112-road-car-kit-p-1644) |
+| Front Tyres | [£3.49](http://www.racing-cars.com/pp/Product_Category/Wheels_Tyres_and_Inserts/JT32FA.html) |
+| Rear Tyres | [£4.00](http://www.racing-cars.com/pp/Product_Category/Wheels_Tyres_and_Inserts/JT30RA.html) |
+| Total | £167.48 |
+
+This is the [12th scale World
+Champion](http://events.redrc.net/2014/10/rheinard-new-112-world-champion/)
+*and* almost the cheapest kit (only the Contacts version of the ORE TwelveGT is
+cheaper in my comparison). I'm not really sure what more to say here!
 
 Conclusion
 ==========
