@@ -5,10 +5,10 @@ summary: Unofficial copy with better links (and linkability).
 ---
 
 Note: this is an **UNOFFICIAL** copy of the [official
-rules](http://www.britishradiocarassociation.co.uk/18-brca-gt10-constructionrules-v5-1-2015-16) (downloaded on 2015-10-05), with some reformatting
-and links.
+rules](http://www.brca.org/rules/450-brca-gt10-constructionrules-v6-0-2016-17-pd
+f) (downloaded on 2016-11-19), with some reformatting and links.
 
-### v5.1 - 30/09/2015
+### v6.0 - 2016-08-28
 
 # Rules
 
@@ -40,11 +40,11 @@ and links.
     1. <span id="3.2">Motors must conform to the relevant technical specifications detailed in the Electric Board Rules.
 
 1. <strong id="4">Speed Controllers Allowed</strong>
-    1. <span id="4.1">Speed controller use is open with no limits
+    1. <span id="4.1">Speed controller must be used in a Zero/No timing mode, "Blinky Mode". Only approved speed controllers from the BRCA Approved Blinky ESC's list may be used.
 
 1. <strong id="5">Batteries Allowed</strong>
-    1. <span id="5.1">Any cells conforming to the current Electric Board battery list.
-    1. <span id="5.2">Cars will be powered by cell/s with a maximum nominal voltage of 3.7v
+    1. <span id="5.1">Any Batteries conforming to the current Electric Board battery list.
+    1. <span id="5.2">Cars will be powered by Batteries with a maximum nominal voltage of 3.8V.
 
 **End of Construction Rules**
 
@@ -54,11 +54,12 @@ Due to the varying nature of tracks and facilities, individual clubs may want
 to run with alternate classes. These classes have previously been used in
 WGT10, and may be more suitable.
 
-- GT1: For 10.5T motors powered by 1S Lipo/Life with speed controller operating in 'blinky' mode as per BRCA 12th circuit approved list. Weight limit 950g
-- GT2: For 10.5T motors powered by 1S Lipo/Life. Boosted ESC. Weight limit 950g
+- GT1: For 10.5T motors powered by 1S Lipo/Life with speed controller operating in 'blinky' mode as per BRCA approved Blinky ESC's list. Weight limit 930g.
+- GT2: For 10.5T motors powered by 1S Lipo/Life. Boosted ESC. Weight limit 930g.
 - GT3: For 17.5T motors powered by 2S Lipo/Life. Weight limit 1150g.
 
-**Note**: **GT2** class is the only class raced at BRCA events.
+Note: It is suggested that the number of turns is considered a minimum, so
+running a 13.5T motor in GT1 or GT2 class is fine.
 
 # Appendix 2 - BRCA GT10 Approved Bodyshell list
 
@@ -93,11 +94,11 @@ WGT10, and may be more suitable.
 - [Protoform Chevrolet Corvette C6-R](http://racepf.com/legacy-items/chevy-corvette-c6-r/) p/n PL1499
 - [Profoform Sophia](http://racepf.com/on-road-1-10-1-12/sophia-gt-clear-body/) p/n PL1502
 - [Protoform Gianna](http://racepf.com/on-road-1-10-1-12/gianna-gt-light-weight-clear-body/) p/n PL1534
+- [Protoform Ford GT](http://racepf.com/on-road-1-10-1-12/ford-gt-clear-body/) p/n PL1549
 - [Black Art](http://www.blackart-racing.eu/index.php/products) GT86 p/n BA007
 - [Mon-Tech M10](http://www.mon-techracing.net/m10.html)
 - [Team Muso LM-P Type1](http://www.team-muso.com/lp.html)
 - [Rivall](http://www.rivall.nl/) LMP1 Le Mans Prototype version 2014
-
 - [Corally MIX Porsche 962CK6](http://www.mix-rc.de/default.asp?ex=shop:produktedetail.asp&Artikel_id=223282) p/n MX78224
 - [Colt](http://www.colt.com.tw/200mm%20bodies.html) Porsche 911 GT1 p/n M1136
 - [Colt](http://www.colt.com.tw/200mm%20bodies.html) Mercedes CLK GTR p/n M1130
@@ -110,8 +111,8 @@ blue/purple ring. Nominally 38/37 shore "lilac" grade rubber.
 *Note: Embedded ring can look a different colour when additive is on, hence
 blue/purple description.*
 
-- CRC: [2302 rear](https://www.teamcrc.com/crc/modules.php?name=Shopping_Cart&file=product&prodID=7719032), [2300 front](https://www.teamcrc.com/crc/modules.php?name=Shopping_Cart&file=product&prodID=7719031) – blue/purple ring embedded in foam
-- BSR: part numbers not stated – blue/purple ring embedded in foam. Note, CRC and BSR are the same product.
-- Jaco: [2100 front](http://www.cmldistribution.co.uk/product/JAC2100/jaco-world-gt-pro-10-spec-lilac-front-tyres-on-carbon-rims-2), [2110 rears](http://www.cmldistribution.co.uk/product/JAC2110/jaco-world-gt-pro-10-spec-lilac-rear-tyres-on-carbon-rims) – All black wheel with blue/purple ring embedded in foam
-- Contact: [JW38FA front](http://www.racing-cars.com/pp/Manufacturer/Contact_RC/JW38FA.html), [JW38RA rear](http://www.racing-cars.com/pp/Manufacturer/Contact_RC/JW38RA.html) – All white wheel with blue/purple ring embedded in foam
-- RC4Less: [R38WGT-F 1/10th Front](http://www.rc4less.com/product_info.php?products_id=456), [R37WGT-R 1/10th Rear](http://www.rc4less.com/product_info.php?products_id=457) with blue/purple ring embedded in foam
+- CRC: [2302 rear](https://www.teamcrc.com/crc/modules.php?name=Shopping_Cart&file=product&prodID=7719032), [2300 front](https://www.teamcrc.com/crc/modules.php?name=Shopping_Cart&file=product&prodID=7719031) – blue/purple ring embedded in foam.
+- BSR: Part numbers not stated – blue/purple ring embedded in foam.
+- Jaco: [2100 front](http://www.cmldistribution.co.uk/product/JAC2100/jaco-world-gt-pro-10-spec-lilac-front-tyres-on-carbon-rims-2), [2110 rears](http://www.cmldistribution.co.uk/product/JAC2110/jaco-world-gt-pro-10-spec-lilac-rear-tyres-on-carbon-rims). All black wheel with blue/purple ring embedded in foam.
+- Contact: [JW38FA front](http://www.racing-cars.com/pp/Manufacturer/Contact_RC/JW38FA.html), [JW38RA rear](http://www.racing-cars.com/pp/Manufacturer/Contact_RC/JW38RA.html). All white wheel with blue/purple ring embedded in foam.
+- RC4Less: [R38WGT-F 1/10th Front](http://www.rc4less.com/product_info.php?products_id=456), [R37WGT-R 1/10th Rear](http://www.rc4less.com/product_info.php?products_id=457) with blue/purple ring embedded in foam.
