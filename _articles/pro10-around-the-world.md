@@ -11,6 +11,8 @@ the [BRCA GT10 rules](../brca-gt10-rules/) on this website.
 
 # [ROAR](http://www.roarracing.com/downloads/2013_ROAR_Rule_Book.pdf)
 
+## Can-Am/GTP/WSC
+
 - Maximum lenth: 22.05" (560.07mm)
 - Maximum width: 9.875" (250.825mm)
 - Maximum height: 3" (76.2mm)
@@ -18,14 +20,23 @@ the [BRCA GT10 rules](../brca-gt10-rules/) on this website.
 - Minimum weight: 42.3oz (1199g)
 - Rear spoiler: maximum chord 2", width 9.875"
 
+## World GT
+
+- Maximum lenth: 22.05" (560.07mm)
+- Maximum width: 205mm
+- Minimum height: 104mm
+- Wheelbase: 10" (254mm) to 10.5" (266.7mm)
+- Minimum weight: 930g
+- Rear wing: maximum chord 45mm, width 200mm, endplates 45mm long, 20mm high
+
 # [International Indoor Championship](http://www.intchamps.com/rules) (Las Vegas)
 
 - Motor: 13.5T
 - ESC: blinky
 - Batteries: 2S
 - Minimum weight: 1050g
-- Wheelbase: 10" to 11"
-- Maximum width: 9.25"
+- Wheelbase: 10" (254mm) to 11" (279.4mm)
+- Maximum width: 9.25" (234.95mm)
 
 ## Body list
 
