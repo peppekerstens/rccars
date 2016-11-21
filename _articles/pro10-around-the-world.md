@@ -247,3 +247,51 @@ LM: Body / Chassis / Axle width: Max 205 mm. Wheelbase min 250mm, max 279mm.
 
 Very [loose Pro10 class](http://www.rctech.net/forum/13385318-post1512.html),
 17.5T blinky 2S.
+
+# [Moravian Le Mans Series](http://www.lemans-serie.cz/report/propositions-2016.html)
+
+They have a few more classes (such as GT2, 4wd touring cars with GT shells),
+but I'm only translating/summarising the 1:10 pan car rules here, and ignoring
+irrelevant bits.
+
+## Common Rules
+
+- Cars should be 1:10 scale. Specifically, all standard cars sold as 1:10,
+  Pro10 up to 240mm wide.
+- Shells of LMP, GT, and TC types, must be realistically painted, in such a way
+  to be opaque.
+- Batteries up to a nominal voltage of 7.4V.
+- Only rear wheel drive is allowed.
+
+## LMP1
+
+- Class intended for sports prototypes of Le Mans type, with unrealistic
+  special purpose bodywork.
+- Maximum width: 240mm.
+- Open motor.
+- Open tyre width and foam compound.
+- Shells of Le Mans Prototype style, aimed at racing. For example, too low or
+  wide profile, usually with a "shovel" behind the wing, and generally
+  disproportional shapes compared with the real cars.
+- Rigid rear axle.
+
+## LMP2
+
+- Class intended for realistically modelled sports prototypes, of Le Mans or GT
+  type.
+- Maximum width: 200mm (nominal, deviations are found from different
+  manufacturers).
+- Motor: 10.5T or higher winds.
+- Open foam compounds, maximum width of 50mm.
+- Realistic body of Le Mans Prototype or GT type.
+
+## GT
+
+- Class intended for GT sports cars.
+- Maximum width: 200mm (nominal, deviations are found from different
+  manufacturers).
+- Motor: 21.5T with boost, or 17.5T blinky.
+- Maximum width of rear tyres: 30mm with boost/turbo, 50mm in blinky.
+- Shells of realistic GT type.
+- This class allows independent rear suspension, and sealed oil dampers both
+  front and rear.
