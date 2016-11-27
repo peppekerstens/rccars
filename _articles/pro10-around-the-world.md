@@ -295,3 +295,29 @@ irrelevant bits.
 - Shells of realistic GT type.
 - This class allows independent rear suspension, and sealed oil dampers both
   front and rear.
+
+# [NZRCA](http://www.nzrca.co.nz/rulebook/) (New Zealand)
+
+According to a racer from Auckland, they run 200mm and 235mm cars, 200mm cars
+being the majority.
+
+- Cars must be 2WD flat pan on road design. The rear suspension must use a
+  straight axle; no independent rear may be used.
+- Bodies must be 1/10th scale pro 10 design. This may include saloon, group C
+  or GTP style bodies.
+- Bodies may not be cut above the lower door line or above the rear bumper line.
+- Openings in the body or cockpit floor other than for bodyposts, aerial and
+  transponder mount must be appropriate to full size cars (scoops, vents, etc)
+  and contained within the bodyshell manufacturers scribe-lines. Openings for
+  wing mounts and battery on/off switch shall provide no more than 10mm
+  clearance around such components. No other openings are allowed, aside from
+  those allowing roll over clearance of the wheels from the wheel arches.
+- No rigid aerials or masts shall be allowed, eg graphite or steel.
+- Motor is 13.5T or higher wind, open ESC, 2S batteries.
+- Dimensional Requirements For Pro 10 Class:
+  - Wheelbase: min 230mm, max 280mm.
+  - Length: max 500mm.
+  - Weight (including transponder): min 1115g.
+  - Wheels diameter: min 41mm, max 51mm.
+  - Tyres width: min 19mm, max 51mm.
+- Tyres are open.
