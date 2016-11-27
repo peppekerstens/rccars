@@ -148,9 +148,10 @@ CRC Xti-WC
 ==========
 
 | CRC Xti-WC | [£159.99](http://www.zen-racing.co.uk/catalog/product_info.php/xti-112-road-car-kit-p-1644) |
+| Carbon Front Shims | [£11.99](http://www.zen-racing.co.uk/catalog/product_info.php/gt12l4-carbon-front-shim-set-p-1128) |
 | Front Tyres | [£3.49](http://www.racing-cars.com/pp/Product_Category/Wheels_Tyres_and_Inserts/JT32FA.html) |
 | Rear Tyres | [£4.00](http://www.racing-cars.com/pp/Product_Category/Wheels_Tyres_and_Inserts/JT30RA.html) |
-| Total | £167.48 |
+| Total | £179.47 |
 
 This is the [12th scale World
 Champion](http://events.redrc.net/2014/10/rheinard-new-112-world-champion/)
