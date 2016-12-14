@@ -9,6 +9,9 @@
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
+    {% if page.summary %}<meta property="og:description" content="{{ page.summary }}" />{% endif %}
+    {% if page.opengraph.image %}<meta property="og:image" content="{{ page.opengraph.image | prepend: site.baseurl | prepend: site.url }}" />{% endif %}
+
 {% if jekyll.environment == "production" %}
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
