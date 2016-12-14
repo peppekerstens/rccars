@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Tips and opinions on racing radio controlled cars. It's both more serious and
   sillier than it seems, at the same time.
 baseurl: "/rccars" # the subpath of your site, e.g. /blog/
-url: "http://pphaneuf.github.io" # the base hostname & protocol for your site
+url: "https://pphaneuf.github.io" # the base hostname & protocol for your site
 twitter_username: pphaneuf
 github_username:  pphaneuf
 excerpt_separator: "\n\n\n"
