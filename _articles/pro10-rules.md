@@ -105,7 +105,7 @@ very far forward, sometimes even to the front wings.
 
 That does not mean that some "aggressive", high downforce body shells designed
 for racing are not allowed. For example, the [Protoform
-Swift-235](http://racepf.com/on-road-1-10-1-12/swift-235-clear-body/), [Corally
+Swift-235](http://racepf.com/on-road-1-10-1-12/swift-235-regular-weight-clear-body/), [Corally
 Porsche 962
 (78222)](http://www.mix-rc.de/default.asp?ex=shop:produktedetail.asp&Artikel_id=
 1730 97&kat_id=1027), and [Team Saxo
