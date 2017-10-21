@@ -4,7 +4,6 @@ title: Pro10 Rules
 summary: A simple, fun, and welcoming set of rules for 1/10 scale pan car racing.
 opengraph:
   image: /resources/return-of-pro10-c4dc20246b.jpg
-draft: true
 ---
 
 A simple set of rules to bring together 1/10 pan cars enthusiasts, who want to
