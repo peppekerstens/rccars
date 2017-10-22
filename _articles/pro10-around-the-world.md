@@ -321,3 +321,20 @@ being the majority.
   - Wheels diameter: min 41mm, max 51mm.
   - Tyres width: min 19mm, max 51mm.
 - Tyres are open.
+
+# [Canadian On-Road Nationals Pro10](http://conrc.com/rules_pro10.html)
+
+- Race: 8 Minute Qualifiers, 8 Minute Mains
+- Ride Height: 4mm Ride Height
+- Chassis: Any 1/10 scale 235mm , 2wd Pan Car Chassis. Only single, one piece
+  drive axles permitted
+- Tires: CRC WGT Purple Stripe wheels (bring your own)
+- Body: Any Can-Am, GTP, and WSC body style
+- Weight: 1050 Grams
+- Battery: any ROAR approved 7.2V Two Cell LiPo. Voltage can be tested by
+  officials at any time and must not exceed the maximum of 8.44v.
+- Motor: any ROAR approved 17.5 Brushless motor. Physical timing adjustments on
+  the can are allowed.
+- Speed Control: Any ROAR approved ESC's are allowed. Only ESC's that do not
+  have timing advance settings, or ESC's that have a "spec mode" disabling
+  timing advance and have a blinky light to show it's in that mode.
