@@ -9,6 +9,7 @@ right? Or is it? I've been taking a look around, comparing different kits...
 Edited (2015-09-06) to add the Mardave Assassin Pro. Edited (2015-12-03) to add
 the ORE TwelveGT and CRC Xti-WC.
 
+
 I'll be leaving out electrics, as for all of the kits I'm looking at, they all
 take the same, or close to (motors of the same brand/model usually all cost the
 same, even if they have different number of turns).
