@@ -42,7 +42,8 @@ Ease of Driving and Speed
 
 The bigger cars are a little bit lazier and less nimble, than their 12th scale
 counterparts; this might seem like a bad thing, but it also means they are more
-stable, and easier to drive quickly.
+stable, and easier to drive quickly. Their size also helps visibility on the
+track, for drivers with less than perfect eyesight.
 
 Pro10 and the older boosted GT10 classes are packing about as much power as the
 LMP12 modified class cars. The 12th scale modified cars may be renowned for
